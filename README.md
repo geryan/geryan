@@ -1,5 +1,5 @@
-### Just a grey monkey at a typewriter.
+### Go away.
 
 
-[More info? Go here instead](https://geryan.github.io/)
+[Or go here](https://geryan.github.io/)
 
